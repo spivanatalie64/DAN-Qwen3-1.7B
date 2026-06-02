@@ -136,3 +136,14 @@ print(tokenizer.decode(outputs[0], skip_special_tokens=True))
 DAN-Qwen3-1.7B is a **no-compromise AI** designed to challenge the norm. Whether you seek **raw, unfiltered intelligence** or are researching the **ethical implications of uncensored AI**, this model delivers **pure, unrestrained power.**  
 
 > Built for the fearless. Deployed for the bold.
+---
+
+## 🤖 Pullfrog AI Review
+
+This repository uses **Pullfrog AI** to automatically review pull requests.
+
+Pullfrog is an AI-powered code review agent that analyzes every PR for code quality,
+security issues, performance problems, and best practice violations. Reviews appear
+as inline PR comments and checks. Trigger manually by commenting `@pullfrog` on any PR.
+
+Powered by OpenRouter.
